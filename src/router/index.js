@@ -8,21 +8,6 @@ Vue.use(Router);
 
 export default new Router({
   routes: [
-    // {
-    //   path: '/',
-    //   name: 'Login',
-    //   component: Login,
-    // },
-    // {
-    //   path: '/posts',
-    //   name: 'PostList',
-    //   component: PostList,
-    // },
-    // {
-    //   path: '/posts/:postId',
-    //   name: 'PostDetail',
-    //   component: PostDetail,
-    // },
     {
       path: '/',
       name: 'PostList',

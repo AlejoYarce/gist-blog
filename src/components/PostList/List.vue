@@ -6,11 +6,6 @@
           Get All
         </button>
       </div>
-      <!-- <div class="col-4">
-        <button type="button" class="btn btn-starred btn-lg" @click="getStarred()">
-          Get Starred
-        </button>
-      </div> -->
       <div class="col-4 pull-right">
         <input type="text" v-model="user" v-on:keyup.enter="getByUser()" class="form-control margin-t-6" placeholder="Get By User">
       </div>
