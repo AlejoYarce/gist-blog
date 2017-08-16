@@ -1,6 +1,5 @@
-# gistblog
-
-> A Vue.js Blog showing Gist Posts
+# Gist Blog [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)]
+Gist Blog is a simple project demonstrating the power of Vue.js using github API as Back End. (https://developer.github.com/v3/gists/)
 
 ## Build Setup
 
@@ -8,7 +7,7 @@
 # install dependencies
 npm install
 
-# serve with hot reload at localhost:8080
+# serve with hot reload at localhost:9000
 npm run dev
 
 # build for production with minification
@@ -27,4 +26,24 @@ npm run e2e
 npm test
 ```
 
-For detailed explanation on how things work, checkout the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
+
+## Public Gist List
+![alt text](https://raw.githubusercontent.com/AlejoYarce/gist-blog/master/static/docs/all_gists.png)
+
+
+## Gist By User
+![alt text](https://raw.githubusercontent.com/AlejoYarce/gist-blog/master/static/docs/gist_by_user.png)
+
+
+## Gist Details
+![alt text](https://raw.githubusercontent.com/AlejoYarce/gist-blog/master/static/docs/gist_details.png)
+
+
+
+
+
+## License
+
+[![CC0](https://licensebuttons.net/p/zero/1.0/88x31.png)](https://creativecommons.org/publicdomain/zero/1.0/)
+
+To the extent possible under law, Alejo Yarce has waived all copyright and related or neighboring rights to this work.
